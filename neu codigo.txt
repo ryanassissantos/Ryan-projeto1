@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ola meu nome e Ryan assis 
+=======
+Eu gosto de maçã
+Eu sou uma nova linha
+Eu gosto de chocolate
+>>>>>>> aa5900db6c1015c2fa12d54457e2bbfff2401af0
